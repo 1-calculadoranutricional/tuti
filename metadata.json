@@ -1,0 +1,6 @@
+{
+  "name": "Scrappy Yard",
+  "description": "Run, dodge hazards, collect hex nuts, and outrun the junk mech in this 3D cyber-scrapyard runner optimized for mobile and desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
